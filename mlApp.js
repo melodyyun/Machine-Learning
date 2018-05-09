@@ -66,7 +66,7 @@ input.on("change", (e) => {
         audioBad.currentTime = 0;
         audioHappy.play();
     }
-})
+});
 
 //This function down here converts hex colour to rgb and is from LearnCode.academy's video
 function getRgb(hex) {
