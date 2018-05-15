@@ -28,7 +28,7 @@ input.on("change", (e) => {
         //green
         { input: { r: 0, g: 1, b: 0 }, output: { light: 1 } },
         //blue
-        { input: { r: 0, g: 0, b: 1 }, output: { light: 1 } },
+        //{ input: { r: 0, g: 0, b: 1 }, output: { light: 1 } },
         
         //black
         { input: { r: 0, g: 0, b: 0}, output: { dark: 1 } },
